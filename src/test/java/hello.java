@@ -25,6 +25,8 @@ public class hello {
 
         System.out.println("git gidebilirsen");
 
+        System.out.println("ali veli");
+
 
     }
 }
