@@ -23,6 +23,8 @@ public class hello {
 
         System.out.println("Zafer abi ");
 
+        System.out.println("git gidebilirsen");
+
 
     }
 }
